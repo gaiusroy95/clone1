@@ -1,0 +1,5 @@
+{
+  "/": "__root__.html",
+  "/login": "login.html",
+  "/register": "register.html"
+}
